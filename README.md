@@ -1,7 +1,8 @@
 # thefuck
 
-1.install thefuck
 requirements python-dev
+
+1.install thefuck
 ```
 sudo pip install thefuck
 ```
